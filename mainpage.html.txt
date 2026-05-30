@@ -1,0 +1,15 @@
+<html>
+<hl> Erin's Portfolio </hl>
+<img src="C:\Users\emdos\Documents\GitHub\portfolio\selfie.jpg" alt="photograph of Erin"
+width="400" height ="421">
+<br>
+<p> I am a creative writing graduate student at George Mason University pursuing an MFA in Fiction. I achieved my Bachelor of Arts degree at Oregon State University in 2020. I have been working in publishing for five years. </p>
+<ul class="navbar">
+	<li><a href="/"Home</a></li>
+	<li><a href="/education">Education</a></li>
+	<li><a href="/professionalexperience">Professional Experience</a></li>
+	<li><a href="/goals">Goals</a></li>
+</ul>
+
+<footer>
+	<p> <small> © 2026 Erin Hoskins </p>
