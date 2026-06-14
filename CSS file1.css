@@ -11,7 +11,7 @@ h2 {
 p {
     font-size: 16px;
     color:rgb(10, 42, 62)
-    font-family: Verdana, sans-serif;
+    font: book antiqua, serif;
 }
 
 p::first-letter {
