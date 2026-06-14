@@ -30,6 +30,13 @@ img {
     border: 8px solid rgb(0, 0, 0);
 }
 
+ul.navbar {
+    list-style-type: none;
+    font-size: 20px;
+    padding: 0;
+    margin: 0;
+    background-color: rgb(178, 167, 231);
+}
 aside {
     background-color: rgb(240, 240, 240);
     padding: 10px;
