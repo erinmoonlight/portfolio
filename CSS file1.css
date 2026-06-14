@@ -8,10 +8,15 @@ h2 {
     color:rgb(0, 157, 255)
 }
 
+h3 {
+    font-size: 18px;
+    color:rgb(41, 141, 56)
+}
+
 p {
     font-size: 16px;
     color:rgb(10, 42, 62)
-    font: book antiqua, serif;
+    font: helvetica, sans-serif;
 }
 
 p::first-letter {
